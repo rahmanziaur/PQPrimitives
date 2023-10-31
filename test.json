@@ -1,0 +1,22 @@
+[{
+	"area": "North",
+	"target": 350,
+	"sales": 145
+},
+{
+	"area": "West",
+	"target": 320,
+	"sales": 113
+},
+
+{
+	"area": "East",
+	"target": 310,
+	"sales": 165
+},
+
+{
+	"area": "South",
+	"target": 300,
+	"sales": 147
+}]
